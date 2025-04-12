@@ -1,1 +1,1 @@
-# diving-certificate
+#index.html
